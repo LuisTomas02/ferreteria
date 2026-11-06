@@ -1,3 +1,4 @@
+//creen las mismas carpetas de la maetra eli Clases, Controladores,Css, Js y las demas
 <?php
     include('menu.php');
 ?>
